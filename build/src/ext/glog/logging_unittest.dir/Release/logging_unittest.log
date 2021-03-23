@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/Yang Chanu/source/repos/pbrt-v3/src/ext/glog/CMakeLists.txt
+  logging_unittest.cc
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\glog\src\googletest.h(579,53): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\glog\src\googletest.h(586,55): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\glog\src\logging_unittest.cc(741,28): warning C4267: 'return': 'size_t'에서 'google::uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\glog\src\logging_unittest.cc(798,3): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\glog\src\logging_unittest.cc(963,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  logging_unittest.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\src\ext\glog\Release\logging_unittest.exe

@@ -1,0 +1,26 @@
+^C:\USERS\YANG CHANU\SOURCE\REPOS\PBRT-V3\BUILD\CMAKEFILES\18F9B4A5C432144E3C194235625611FD\COPYILMBASELIBS.RULE
+setlocal
+"C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\bin\cmake.exe" -E copy_directory "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/IlmBase/Half/" "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\bin\cmake.exe" -E copy_directory "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/IlmBase/IlmThread/" "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\bin\cmake.exe" -E copy_directory "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/IlmBase/Iex/" "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\bin\cmake.exe" -E copy_directory "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/IlmBase/Imath/" "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/OpenEXR/IlmImf/"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\YANG CHANU\SOURCE\REPOS\PBRT-V3\SRC\EXT\OPENEXR\CMAKELISTS.TXT
+setlocal
+"C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\bin\cmake.exe" "-SC:/Users/Yang Chanu/source/repos/pbrt-v3" "-BC:/Users/Yang Chanu/source/repos/pbrt-v3/build" --check-stamp-file "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/src/ext/openexr/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,159 @@
+﻿  Building Custom Rule C:/Users/Yang Chanu/source/repos/pbrt-v3/CMakeLists.txt
+  api.cpp
+C:\Users\Yang Chanu\source\repos\pbrt-v3\build\src\ext\glog\glog/logging.h(714,1): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\materials/hair.h(168): message : 컴파일되는 함수 템플릿 인스턴스화 'std::string *google::Check_LTImpl<unsigned __int64,__int64>(const T1 &,const T2 &,const char *)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=unsigned __int64,
+              T2=__int64
+          ]
+  bssrdf.cpp
+  camera.cpp
+  efloat.cpp
+  error.cpp
+  fileutil.cpp
+  film.cpp
+  filter.cpp
+  floatfile.cpp
+  geometry.cpp
+  imageio.cpp
+  integrator.cpp
+  interaction.cpp
+  interpolation.cpp
+  light.cpp
+  lightdistrib.cpp
+  lowdiscrepancy.cpp
+  material.cpp
+  medium.cpp
+  memory.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  microfacet.cpp
+  parallel.cpp
+  paramset.cpp
+  parser.cpp
+  primitive.cpp
+  progressreporter.cpp
+  quaternion.cpp
+  reflection.cpp
+  sampler.cpp
+  sampling.cpp
+  scene.cpp
+  shape.cpp
+  sobolmatrices.cpp
+  spectrum.cpp
+  stats.cpp
+  texture.cpp
+  transform.cpp
+  bvh.cpp
+C:\Users\Yang Chanu\source\repos\pbrt-v3\build\src\ext\glog\glog/logging.h(713,1): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\accelerators\bvh.cpp(108): message : 컴파일되는 함수 템플릿 인스턴스화 'std::string *google::Check_LEImpl<unsigned int,int>(const T1 &,const T2 &,const char *)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=unsigned int,
+              T2=int
+          ]
+  kdtreeaccel.cpp
+  environment.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  orthographic.cpp
+  perspective.cpp
+  realistic.cpp
+  lodepng.cpp
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(798,34): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(1458,29): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(1462,31): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(1534,86): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(3478,46): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(3492,54): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(4326,75): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(4374,41): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(4454,59): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\lodepng.cpp(5397,38): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rply.cpp
+  targa.cpp
+  box.cpp
+  gaussian.cpp
+  mitchell.cpp
+  sinc.cpp
+  ao.cpp
+  bdpt.cpp
+  directlighting.cpp
+  mlt.cpp
+  path.cpp
+  sppm.cpp
+  volpath.cpp
+  whitted.cpp
+  diffuse.cpp
+  distant.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  goniometric.cpp
+  infinite.cpp
+  point.cpp
+  projection.cpp
+  spot.cpp
+  disney.cpp
+  fourier.cpp
+  glass.cpp
+  hair.cpp
+C:\Users\Yang Chanu\source\repos\pbrt-v3\build\src\ext\glog\glog/logging.h(714,1): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\materials/hair.h(168): message : 컴파일되는 함수 템플릿 인스턴스화 'std::string *google::Check_LTImpl<unsigned __int64,__int64>(const T1 &,const T2 &,const char *)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=unsigned __int64,
+              T2=__int64
+          ]
+  kdsubsurface.cpp
+  matte.cpp
+  metal.cpp
+  mirror.cpp
+  mixmat.cpp
+  plastic.cpp
+  substrate.cpp
+  subsurface.cpp
+  translucent.cpp
+  uber.cpp
+  grid.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  homogeneous.cpp
+  halton.cpp
+  maxmin.cpp
+  random.cpp
+  sobol.cpp
+  stratified.cpp
+  zerotwosequence.cpp
+  cone.cpp
+  curve.cpp
+  cylinder.cpp
+  disk.cpp
+  heightfield.cpp
+  hyperboloid.cpp
+  loopsubdiv.cpp
+  nurbs.cpp
+  paraboloid.cpp
+  plymesh.cpp
+  sphere.cpp
+  bilerp.cpp
+  checkerboard.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  constant.cpp
+  dots.cpp
+  fbm.cpp
+  imagemap.cpp
+  marble.cpp
+  mix.cpp
+  ptex.cpp
+  scale.cpp
+  uv.cpp
+  windy.cpp
+  wrinkled.cpp
+  코드를 생성하고 있습니다...
+  ArHosekSkyModel.c
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\ArHosekSkyModel.c(529,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  triangle.cpp
+  triangle.cpp
+  pbrt.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\Release\libpbrt.lib

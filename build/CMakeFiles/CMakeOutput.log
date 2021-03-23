@@ -1,0 +1,555 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+.NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2021-03-23 오후 8:52:12
+1 노드의 "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\3.20.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\3.20.0-rc2\CompilerIdC\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdC.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\3.20.0-rc2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:01.23
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/3.20.0-rc2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+.NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2021-03-23 오후 8:52:14
+1 노드의 "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\3.20.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\3.20.0-rc2\CompilerIdCXX\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\3.20.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.95
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/3.20.0-rc2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_06d59.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_06d59.dir\Debug\\" /Fd"cmTC_06d59.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\share\cmake-3.20\Modules\CMakeCCompilerABI.c"
+  cmTC_06d59.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_06d59.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_17fb2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CMakeCXXCompilerABI.cpp
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_17fb2.dir\Debug\\" /Fd"cmTC_17fb2.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\Downloads\cmake-3.20.0-rc2-windows-x86_64\cmake-3.20.0-rc2-windows-x86_64\share\cmake-3.20\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_17fb2.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_17fb2.exe
+
+
+
+Determining if files memory.h exist passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9db3d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  HAVE_MEMORY_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9db3d.dir\Debug\\" /Fd"cmTC_9db3d.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CheckIncludeFiles\HAVE_MEMORY_H.c"
+  cmTC_9db3d.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_9db3d.exe
+
+
+
+Performing C++ SOURCE FILE Test HAVE_HEX_FP_CONSTANTS succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6a4cf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_HEX_FP_CONSTANTS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6a4cf.dir\Debug\\" /Fd"cmTC_6a4cf.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_6a4cf.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_6a4cf.exe
+
+
+Source file was:
+int main() { float x = 0x1p-32f; }
+Performing C++ SOURCE FILE Test HAVE_BINARY_CONSTANTS succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6698c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_BINARY_CONSTANTS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6698c.dir\Debug\\" /Fd"cmTC_6698c.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_6698c.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_6698c.exe
+
+
+Source file was:
+int main() { int x = 0b101011; }
+Performing C++ SOURCE FILE Test HAVE_CONSTEXPR succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b436d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_CONSTEXPR /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b436d.dir\Debug\\" /Fd"cmTC_b436d.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_b436d.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_b436d.exe
+
+
+Source file was:
+int main() { constexpr int x = 0; }
+Performing C++ SOURCE FILE Test HAVE_ALIGNAS succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_90845.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_ALIGNAS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_90845.dir\Debug\\" /Fd"cmTC_90845.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_90845.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_90845.exe
+
+
+Source file was:
+struct alignas(32) Foo { char x; }; int main() { }
+Performing C++ SOURCE FILE Test HAVE_ALIGNOF succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9b1ac.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_ALIGNOF /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9b1ac.dir\Debug\\" /Fd"cmTC_9b1ac.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_9b1ac.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_9b1ac.exe
+
+
+Source file was:
+int main() { int x = alignof(double); }
+Performing C++ SOURCE FILE Test HAVE_NONPOD_IN_UNIONS succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_4e62e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_NONPOD_IN_UNIONS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4e62e.dir\Debug\\" /Fd"cmTC_4e62e.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_4e62e.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_4e62e.exe
+
+
+Source file was:
+
+class Bar { public: Bar() { x = 0; } float x; };
+struct Foo { union { int x[10]; Bar b; }; Foo() : b() { } };
+int main() { Foo f; }
+
+Performing C++ SOURCE FILE Test HAVE_DECLSPEC_NOINLINE succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6244c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_DECLSPEC_NOINLINE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6244c.dir\Debug\\" /Fd"cmTC_6244c.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_6244c.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_6244c.exe
+
+
+Source file was:
+__declspec(noinline) void foo() { }
+int main() { }
+Performing C++ SOURCE FILE Test HAVE__ALIGNED_MALLOC succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d7dc6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE__ALIGNED_MALLOC /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d7dc6.dir\Debug\\" /Fd"cmTC_d7dc6.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_d7dc6.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_d7dc6.exe
+
+
+Source file was:
+
+#include <malloc.h>
+int main() { void * ptr = _aligned_malloc(1024, 32); }
+
+Performing C++ SOURCE FILE Test HAVE_THREAD_LOCAL succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_1f8c3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_THREAD_LOCAL /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1f8c3.dir\Debug\\" /Fd"cmTC_1f8c3.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_1f8c3.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_1f8c3.exe
+
+
+Source file was:
+
+#ifdef __CYGWIN__
+// Hack to work around https://gcc.gnu.org/bugzilla/show_bug.cgi?id=64697
+#error "No thread_local on cygwin"
+#endif  // __CYGWIN__
+thread_local int x; int main() { }
+
+Performing C++ SOURCE FILE Test HAVE_DECLSPEC_THREAD succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_e710d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_DECLSPEC_THREAD /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e710d.dir\Debug\\" /Fd"cmTC_e710d.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_e710d.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_e710d.exe
+
+
+Source file was:
+
+__declspec(thread) int x; int main() { }
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_0feb4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0feb4.dir\Debug\\" /Fd"cmTC_0feb4.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_0feb4.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_0feb4.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_578eb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_578eb.dir\Debug\\" /Fd"cmTC_578eb.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_578eb.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_578eb.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_016be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_016be.dir\Debug\\" /Fd"cmTC_016be.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_016be.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_016be.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_07394.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_07394.dir\Debug\\" /Fd"cmTC_07394.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_07394.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_07394.exe
+
+
+
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9e61f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e61f.dir\Debug\\" /Fd"cmTC_9e61f.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_9e61f.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_9e61f.exe
+
+
+
+Determining if the include file string.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_f687c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f687c.dir\Debug\\" /Fd"cmTC_f687c.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_f687c.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_f687c.exe
+
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_af709.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_af709.dir\Debug\\" /Fd"cmTC_af709.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_af709.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_af709.exe
+
+
+
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9b7d7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9b7d7.dir\Debug\\" /Fd"cmTC_9b7d7.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  cmTC_9b7d7.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_9b7d7.exe
+
+
+
+Determining if the include file unordered_set exists passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_2d38a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_2d38a.dir\Debug\\" /Fd"cmTC_2d38a.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  cmTC_2d38a.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_2d38a.exe
+
+
+
+Determining size of unsigned __int16 passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_5f69b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  HAVE___UINT16.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5f69b.dir\Debug\\" /Fd"cmTC_5f69b.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CheckTypeSize\HAVE___UINT16.c"
+  cmTC_5f69b.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_5f69b.exe
+
+
+
+Determining size of uint16_t passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_f67d2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  HAVE_UINT16_T.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f67d2.dir\Debug\\" /Fd"cmTC_f67d2.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CheckTypeSize\HAVE_UINT16_T.c"
+  cmTC_f67d2.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_f67d2.exe
+
+
+
+Determining if the snprintf exist passed with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6bb5f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  CheckSymbolExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6bb5f.dir\Debug\\" /Fd"cmTC_6bb5f.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  cmTC_6bb5f.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_6bb5f.exe
+
+
+File C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE___DECLSPEC succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6bd5e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE___DECLSPEC /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6bd5e.dir\Debug\\" /Fd"cmTC_6bd5e.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.c"
+  cmTC_6bd5e.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_6bd5e.exe
+
+
+Source file was:
+
+__declspec(selectany) int a;
+int main(void) { return 0; }
+
+Performing C++ SOURCE FILE Test STL_STD_NAMESPACE succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_1ae2c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D STL_STD_NAMESPACE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1ae2c.dir\Debug\\" /Fd"cmTC_1ae2c.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_1ae2c.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_1ae2c.exe
+
+
+Source file was:
+
+#include <vector>
+std::vector<int> t; int main() { }
+
+Performing C++ SOURCE FILE Test HAVE_USING_OPERATOR succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_90047.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_USING_OPERATOR /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_90047.dir\Debug\\" /Fd"cmTC_90047.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_90047.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_90047.exe
+
+
+Source file was:
+
+#include <iostream>
+std::ostream& operator<<(std::ostream&, struct s);
+using ::operator<<;
+int main() { }
+
+Performing C++ SOURCE FILE Test HAVE_NAMESPACES succeeded with the following output:
+Change Dir: C:/Users/Yang Chanu/source/repos/pbrt-v3/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_f4ce0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && .NET Framework용 Microsoft (R) Build Engine 버전 16.9.0+57a23d249
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.28.29910(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  src.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_NAMESPACES /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f4ce0.dir\Debug\\" /Fd"cmTC_f4ce0.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\src.cxx"
+  cmTC_f4ce0.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\CMakeFiles\CMakeTmp\Debug\cmTC_f4ce0.exe
+
+
+Source file was:
+
+namespace Outer { namespace Inner { int i = 0; }}
+using namespace Outer::Inner;;
+int main() { return i; }
+

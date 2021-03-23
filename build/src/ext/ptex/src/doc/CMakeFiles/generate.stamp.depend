@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindDoxygen.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Users/Yang Chanu/source/repos/pbrt-v3/src/ext/ptex/src/doc/CMakeLists.txt

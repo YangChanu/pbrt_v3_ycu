@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Yang Chanu/source/repos/pbrt-v3/src/ext/ptex/src/tests/CMakeLists.txt
+  halftest.cpp
+C:\Users\Yang Chanu\source\repos\pbrt-v3\src\ext\ptex\src\tests\halftest.cpp(294,5): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  halftest.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\src\ext\ptex\src\tests\Release\halftest.exe

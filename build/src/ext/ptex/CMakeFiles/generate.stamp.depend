@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/CTest.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/CTestTargets.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/CTestUseLaunchers.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/DartConfiguration.tcl.in
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindThreads.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/FindZLIB.cmake
+C:/Users/Yang Chanu/Downloads/cmake-3.20.0-rc2-windows-x86_64/cmake-3.20.0-rc2-windows-x86_64/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+C:/Users/Yang Chanu/source/repos/pbrt-v3/src/ext/ptex/CMakeLists.txt

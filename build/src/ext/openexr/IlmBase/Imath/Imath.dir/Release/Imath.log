@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/Yang Chanu/source/repos/pbrt-v3/src/ext/openexr/IlmBase/Imath/CMakeLists.txt
+  ImathBox.cpp
+  ImathRandom.cpp
+  ImathColorAlgo.cpp
+  ImathShear.cpp
+  ImathFun.cpp
+  ImathVec.cpp
+  ImathMatrixAlgo.cpp
+  코드를 생성하고 있습니다...
+  Imath.vcxproj -> C:\Users\Yang Chanu\source\repos\pbrt-v3\build\src\ext\openexr\IlmBase\Imath\Release\Imath.lib
